@@ -52,7 +52,7 @@ module.exports = {
     sidebar: {
       "/text/": [
         {
-          title: "The Society of Mind",
+          title: "1 Prologue",
           collapsable: false,
           children: ["", "using-vue"],
         },
