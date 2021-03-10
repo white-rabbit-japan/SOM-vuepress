@@ -67,11 +67,6 @@ title: ${title}
     .split("http://aurellem.org/society-of-mind/illus")
     .join("/images")
 
-  // purge files
-
-  await fse.emptyDir("./src/.vuepress/public/images/")
-  await fse.emptyDir("./src/text/")
-
   images.forEach((x) =>
     downloadImage(
       x,
@@ -86,4 +81,21 @@ title: ${title}
 
 //som.slice(0, 5).forEach(processPage);
 //som.forEach(createSidebar)
-som.forEach(processPage)
+
+// purge files
+async function main() {
+  const readmeBody = `
+# The Society of Mind
+
+By Marvin Minsky
+`
+  console.log("****************** created readme")
+
+  await fse.emptyDir("./src/.vuepress/public/images/")
+  await fse.emptyDir("./src/text/")
+  // saveMarkdown("readme", readmeBody)
+
+  som.forEach(processPage)
+}
+
+main()
