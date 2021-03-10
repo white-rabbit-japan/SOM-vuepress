@@ -39,7 +39,7 @@ module.exports = {
     nav: [
       {
         text: "Text",
-        link: "/text/",
+        link: "/text/1_prologue",
       },
       {
         text: "Glossary",
