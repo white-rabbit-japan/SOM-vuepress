@@ -1,0 +1,11 @@
+---
+ordinal: 1.1
+title: The agents of the mind
+---
+
+# 1.1 THE AGENTS OF THE MIND 
+
+<p>Good theories of the mind must span at least three different scales of time: slow, for the billion years in which our brains have evolved; fast, for the fleeting weeks and months of infancy and childhood; and in between, the centuries of growth of our ideas through history.</p>
+<p>To explain the mind, we have to show how minds are built from mindless stuff, from parts that are much smaller and simpler than anything we'd consider smart. Unless we can explain the mind in terms of things that have no thoughts or feelings of their own, we'll only have gone around in a circle. But what could those simpler particles be &mdash; the <em>agents</em> that compose our minds? This is the subject of our book, and knowing this, let's see our task. There are many questions to answer.</p>
+<p><strong>Function:</strong> How do agents work?<br> <strong>Embodiment:</strong> What are they made of?<br> <strong>Interaction:</strong> How do they communicate?<br> <strong>Origins:</strong> Where do the first agents come from?<br> <strong>Heredity:</strong> Are we all born with the same agents?<br> <strong>Learning:</strong> How do we make new agents and change old ones?<br> <strong>Character:</strong> What are the most important kinds of agents?<br> <strong>Authority:</strong> What happens when agents disagree?<br> <strong>Intention:</strong> How could such networks want or wish?<br> <strong>Competence:</strong> How can groups of agents do what separate agents cannot do?<br> <strong>Selfness:</strong> What gives them unity or personality?<br> <strong>Meaning:</strong> How could they understand anything?<br> <strong>Sensibility:</strong> How could they have feelings and emotions?<br> <strong>Awareness:</strong> How could they be conscious or self-aware?<br></p>
+<p>How could a theory of the mind explain so many things, when every separate question seems too hard to answer by itself? These questions all seem difficult, indeed, when we sever each one's connections to the other ones. But once we see the mind as a society of agents, each answer will illuminate the rest.</p>
