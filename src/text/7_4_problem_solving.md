@@ -5,7 +5,6 @@ title: problem solving
 
 # 7.4 PROBLEM SOLVING 
 
-<h2><em>7.4</em> problem solving</h2>
 <p>In principle, we can use the <em>generate and test</em> method &mdash; that is, trial and error &mdash; to solve any problem whose solution we can recognize. But in practice, it can take too long for even the most powerful computer to test enough possible solutions. Merely assembling a simple house from a dozen wooden blocks would require searching through more possibilities than a child could try in a lifetime. Here is one way to improve upon blind trial-and-error search.</p>
 <p>The Progress Principle: Any process of exhaustive search can be greatly reduced if we possess some way to detect when <em>progress</em> has been made. Then we can trace a path toward a solution, just as a person can climb an unfamiliar hill in the dark &mdash; by feeling around, at every step, to find the direction of steepest ascent.</p>
 <p>Many easy problems can be solved this way, but for a hard problem, it may be almost as difficult to recognize <em>progress</em> as to solve the problem itself. Without a larger overview, that <em>hill climber</em> may get stuck forever on some minor peak and never find the mountaintop. There is no foolproof way to avoid this.</p>

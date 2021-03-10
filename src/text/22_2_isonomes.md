@@ -5,6 +5,7 @@ title: isonomes
 
 # 22.2 ISONOMES 
 
+<h2><em>22.2</em> isonomes</h2>
 <p>We introduced the concept of a polyneme to explain how an agent could communicate with many other kinds of agencies. In order for a polyneme to work, each of its recipients must learn its own way to react. Now we've seen a second way, for a pronome is also an agent that can interact with many other agencies. The difference is that a pronome has essentially the same effect on each of its recipients &mdash; namely, to activate or to assign a certain short-term memory-unit. I'll introduce a new word &mdash; <em>isonome</em> &mdash; for any agent that has this sort of uniform effect on many agencies.</p>
 <p>An isonome has a similar, built-in effect on each of its recipients. It thus applies the same idea to many different things at once. A polyneme has different, learned effects on each of its</p>
 <p>recipients. It thus connects the same thing to many different ideas.</p>

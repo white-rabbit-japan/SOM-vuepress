@@ -5,6 +5,7 @@ title: emotion
 
 # 16.1 EMOTION 
 
+<h2><em>16.1</em> emotion</h2>
 <p>Why do so many people think emotion is harder to explain than intellect? They're always saying things like this:</p>
 <p><em>I understand, in principle, how a computer might solve problems by reasoning. But I can't imagine how a computer could have emotions, or comprehend them. That doesn't seem at all the sort of thing machines could ever do.</em></p>
 <p>We often think of anger as nonrational. But in our Challenger scenario, the way that Work employs Anger to subdue Sleep seems no less rational than using a stick to reach for something beyond one's grasp. Anger is merely an implement that Work can use to solve one of its problems. The only complication is that Work cannot arouse Anger directly; however, it discovers a way to do this indirectly, by turning on the fantasy of Professor Challenger. No matter that this leads to states of mind that people call emotional. To Work it's merely one more way to do what it's assigned to do. We're always using images and fantasies in ordinary thought. We use <em>imagination</em> to solve a geometry problem, plan a walk to some familiar place, or choose what to eat for dinner: in each, we must envision things that aren't actually there. The use of fantasies, emotional or not, is indispensable for every complicated problem-solving process. We always have to deal with nonexistent scenes, because only when a mind can change the ways things appear to be can it really start to think of how to change the ways things are.</p>

@@ -5,6 +5,7 @@ title: inference
 
 # 22.5 INFERENCE 
 
+<h2><em>22.5</em> inference</h2>
 <p>Linking structures together into chains is one of our most useful kinds of reasoning. Suppose you learned that <em>John gave the kite to Mary</em> and then <em>Mary gave the kite to Jack.</em> You could then conclude that the kite went from John to Jack. How do we draw such conclusions? Some people think we use <em>logic</em> for this. A simpler theory is that we do it by fitting together Trans-frames into chains. Suppose you see two frames like these:</p>
 <p>All A's are B' s and All B 's are C's.</p>
 <p>Then just combine the first Origin with the second Destination to make this new <em>deduction-frame</em>:</p>

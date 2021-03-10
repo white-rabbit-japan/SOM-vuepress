@@ -5,9 +5,8 @@ title: logical chains
 
 # 18.4 LOGICAL CHAINS 
 
-<h2><em>18.4</em> logical chains</h2>
 <p><em>Logic</em> is the word we use for certain ways to chain ideas. But I doubt that pure deductive logic plays much of a role in ordinary thinking. Here is one way to contrast logical reasoning and ordinary thinking. Both build chainlike connections between ideas. The difference is that in logic there's no middle ground; a logic link is either there or not. Because of this, a logical argument cannot have any <em>weakest link.</em></p>
-<figure><img src="/images/ch18/18-6.png"/></figure>
+<figure><img src="/images/ch18/18-6.png"></img></figure>
 <p>Logic demands just one support for every link, a single, flawless deduction. Common sense asks, at every step, if all of what we've found so far is in accord with everyday experience. No sensible person ever trusts a long, thin chain of reasoning. In real life, when we listen to an argument, we do not merely check each separate step;</p>
 <p>we look to see if what has been described so far seems plausible. We look for other evidence beyond the reasons in that argument. Consider how often we speak of reasoning in terms of structural or architectural expressions, as though our arguments were like the towers Builder builds:</p>
 <p><em>Your argument is based on weak evidence.</em> <em>You must support that with more evidence.</em> <em>That argument is shaky. It will collapse.</em></p>

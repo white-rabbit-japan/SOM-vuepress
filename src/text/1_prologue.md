@@ -3,7 +3,7 @@ ordinal: 1
 title: Prologue
 ---
 
-# 1 PROLOGUE 
+# 1 PROLOGUE
 
 <blockquote> Everything should be made as simple as possible, but not simpler. &mdash;Albert Einstein</blockquote>
 <p>This book tries to explain how minds work. How can intelligence emerge from nonintelligence? To answer that, we'll show that you can build a mind from many little parts, each mindless by itself.</p>

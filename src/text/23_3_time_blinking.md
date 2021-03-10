@@ -5,7 +5,6 @@ title: time blinking
 
 # 23.3 TIME BLINKING 
 
-<h2><em>23.3</em> time blinking</h2>
 <p>Fortunately, there is a way to get around the duplication problem entirely. Let's take a cue from how a perfume makes a strong impression first, but then appears to fade away, or how, when you put your hand in water that is very hot or very cold, the sensation is intense at first &mdash; but will soon disappear almost entirely. As we say, we <em>get used to</em> these sensations. Why? Because our senses react mainly to how things change in time. This is true even for the sensors in our eyes &mdash; though normally we're unaware of it because our eyes are always moving imperceptibly. Most of the sensory agents that inform our brains about the world are sensitive only to various sorts of time changes &mdash; and that, surely, is also true of most of the agents inside the brain.</p>
 <p>Any agent that is sensitive to changes in time can also be used to detect differences. For whenever we expose such an agent, first to a situation A and then to a situation B, any output from</p>
 <p>that agent will signify some difference between A and B.</p>

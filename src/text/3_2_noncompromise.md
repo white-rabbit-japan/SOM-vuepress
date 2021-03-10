@@ -5,7 +5,6 @@ title: Noncompromise
 
 # 3.2 NONCOMPROMISE 
 
-<h2><em>3.2</em> Noncompromise</h2>
 <p>To settle arguments, nations develop legal systems, corporations establish policies, and individuals may argue, fight, or compromise &mdash; or turn for help to mediators that lie outside themselves. What happens when there are conflicts inside minds?</p>
 <p>Whenever several agents have to compete for the same resources, they are likely to get into conflicts. If those agents were left to themselves, the conflicts might persist indefinitely, and this would leave those agents paralyzed, unable to accomplish any goal. What happens then? We'll assume that those agents' supervisors, too, are under competitive pressure and likely to grow weak themselves whenever their subordinates are slow in achieving their goals, no matter whether because of conflicts between them or because of individual incompetence.</p>
 <p>The Principle of Noncompromise: The longer an internal conflict persists among an agent's subordinates, the weaker becomes that agent's status among its own competitors. If such internal problems aren't settled soon, other agents will take control and the agents formerly involved will be <em>dismissed.</em></p>

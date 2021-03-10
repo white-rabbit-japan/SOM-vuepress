@@ -5,7 +5,6 @@ title: innate geography
 
 # 11.4 INNATE GEOGRAPHY 
 
-<h2><em>11.4</em> innate geography</h2>
 <p>We've seen that touching nearby spots of skin will usually give rise to similar sensations: this is because the corresponding nerves run in parallel courses and thus cause similar activities inside the brain. The reverse is also usually true: the more similar two sensations are, the closer their origins in the skin. This has an important consequence:</p>
 <p>The nerve pathways that preserve the physical nearness relations of our skin-sensors can make it easy for inner agencies to discover corresponding nearnesses about the outer world of space.</p>
 <p>Moving your hand across an object tells you something about that object's shape. Imagine what must happen when a very young infant moves its hand across some object: each continuous motion produces a sequence of skin-sensor signals. Over time, various mapping agents can first use this information to learn, simply, which skin spots are nearest one another. Later, further layers of mapping agents could learn which skin spots lie between which others; this should be easy, too, because most small-scale motions tend to go in nearly straight lines. But then, since space itself is just a society of nearness relations between places, this is all the information we need to <em>reconstruct</em> the spatial structure of the skin. All this is in accord with a basic principle of mathematics:</p>

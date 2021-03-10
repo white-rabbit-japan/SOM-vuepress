@@ -5,6 +5,7 @@ title: ambiguity
 
 # 20.1 AMBIGUITY 
 
+<h2><em>20.1</em> ambiguity</h2>
 <p>We often find it hard to <em>express our thoughts</em> &mdash; to summarize our mental states or put our ideas into words. It is tempting to blame this on the ambiguity of words, but the problem is deeper than that.</p>
 <p>Thoughts themselves are ambiguous!</p>
 <p>At first, one might complain that that's impossible. <em>I'm thinking exactly what I'm thinking; there's no way it could be otherwise. And this has nothing to do with whether I can express it precisely.</em> But <em>what you're thinking now</em> is itself inherently ambiguous. If we interpret it to mean the states of all your agencies, that would include much that cannot be <em>expressed</em> simply because it is not accessible to your language-agency. A more modest interpretation of <em>what you're thinking now</em> would be a partial indication of the present states of some of your higher-level agencies. But the significance of any agency's state depends on how it is likely to affect the states of other agencies. This implies that in order to <em>express</em> your present state of mind, you have to partially anticipate what some of your agencies are about to do. Inevitably, by the time you've managed to express yourself, you're no longer in the state you were before; your thoughts were ambiguous to begin with, and you never did succeed in expressing them but merely replaced them with other thoughts.</p>

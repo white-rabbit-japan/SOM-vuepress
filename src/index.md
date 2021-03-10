@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline:
+heroImage: /cover/som_cover.jpg
+tagline: Marvin Minsky
 actionText: Start →
 actionLink: /text/1_prologue/
 footer: Made by Max Hodges with ❤️

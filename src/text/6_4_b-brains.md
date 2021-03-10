@@ -6,7 +6,7 @@ title: B-Brains
 # 6.4 B-BRAINS 
 
 <p>There is one way for a mind to watch itself and still keep track of what's happening. Divide the brain into two parts, A and B. Connect the A-brain's inputs and outputs to the real world &mdash; so it can sense what happens there. But don't connect the B-brain to the outer world at all; instead, connect it so that the A-brain is the B-brain's world!</p>
-<figure><img src="/images/ch6/6-1.png"/></figure>
+<figure><img src="/images/ch6/6-1.png"></img></figure>
 <p>Now A can see and act upon what happens in the outside world &mdash; while B can <em>see</em> and influence what happens inside A. What uses could there be for such a B? Here are some A-activities that B might learn to recognize and influence.</p>
 <p>A seems disordered and confused. Inhibit that activity. A appears to be repeating itself. Make A stop. Do something else. A does something B considers good. Make A remember this. A is occupied with too much detail. Make A take a higher-level view A is not being specific enough. Focus A on lower-level details.</p>
 <p>This two-part arrangement could be a step toward having a more <em>reflective</em> mind-society. The B-brain could do experiments with the A-brain, just as the A-brain can experiment with the body or with the objects and people surrounding it. And just as A can attempt to predict and control what happens in the outer world, B can try to predict and control what A will do. For example, the B-brain could supervise how the A-brain learns, either by making changes in A directly or by influencing A's own learning processes.</p>

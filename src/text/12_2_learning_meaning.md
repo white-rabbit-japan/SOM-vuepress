@@ -5,7 +5,6 @@ title: learning meaning
 
 # 12.2 LEARNING MEANING 
 
-<h2><em>12.2</em> learning meaning</h2>
 <p>What is learning, anyway? That word is certainly hard to define. The child in our Block-Arch scenario has found one way to learn one sense of what some adults mean by <em>arch.</em> But we can't assume that the same kinds of processes are involved when we learn to recite a poem, to use a spoon, and to tie a shoe. What happens when a person learns to read, learns to add numbers, learns a new language, learns to anticipate the dispositions of a friend, or learns to build a tower that will stand? If we tried to find a single definition for <em>learning</em> to span so many kinds of processes, we'd end up with some phrase too broad to have much use &mdash; like this:</p>
 <p><em>Learning</em> is making useful changes in the workings of our minds.</p>
 <p>The problem is that we use the single word <em>learning</em> to cover too diverse a society of ideas. Such a word can be useful in the title of a book, or in the name of an institution. But when it comes to studying the subject itself, we need more distinctive terms for important, different ways to learn. Even that one Block-Arch scene reveals at least four different ways to learn. We'll give them these new names:</p>

@@ -1,4 +1,4 @@
-import som from "./SOM.json"
+import som from "./SOM2.json"
 import mkdirp from "mkdirp"
 import { dirname } from "path"
 import fse from "fs-extra"
@@ -52,7 +52,7 @@ const processPage = async (page) => {
     ? `${chapter}_${section}_${title.split(" ").join("_")}`
     : `${chapter}_${title.split(" ").join("_")}`
 
-  filename = filename.replace(/['?]/gm, "")
+  filename = filename.replace(/[':?]/gm, "")
 
   const head = `---
 ordinal: ${ordinal}
@@ -64,7 +64,7 @@ title: ${title}
   //<img src="http://aurellem.org/society-of-mind/illus/ch11/11-2.png"></img>;
 
   const body = page.html
-    .split("http://aurellem.org/society-of-mind/illus")
+    .split("http://aurellem.org/minsky/illus")
     .join("/images")
 
   images.forEach((x) =>

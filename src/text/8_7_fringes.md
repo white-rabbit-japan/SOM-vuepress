@@ -5,6 +5,7 @@ title: fringes
 
 # 8.7 FRINGES 
 
+<h2><em>8.7</em> fringes</h2>
 <p>It's hard to recognize a thing when you're presented with too much detail. To know that you are seeing a kite, it helps to look for paper, sticks, and string. But if you were to use a microscope, what you'd perceive would not be properties of kites at all, but merely features of particular bits of paper, sticks or string. These might allow you to identify a particular kite but not to recognize any other kite. Past a certain level of detail, the more one sees, the less one can tell what one is seeing! The same applies to memories; they should weaken their attachments at lower levels of detail.</p>
 <p>Lower Band: Beyond a certain level of detail, increasingly complete memories of previous situations are increasingly difficult to match to new situations.</p>
 <p>To explain why K-lines need an upper-level fringe, let's return to that example in which our child originally learned how to build a tower &mdash; but now desires to build a house. Here, we could have another kind of difficulty if we remembered too much about our previous goals!</p>

@@ -5,7 +5,6 @@ title: mental models
 
 # 30.3 MENTAL MODELS 
 
-<h2><em>30.3</em> mental models</h2>
 <p>Does a book know what is written inside it? Clearly, no. Does a book contain knowledge? Clearly, yes. But how could anything contain knowledge, yet not know it? We've seen how saying that a person or machine possesses knowledge amounts to saying that some observer could employ that person or machine to answer certain kinds of questions. Here is another view of what it means to know.</p>
 <p><em>Jack knows about A</em> means that there is a <em>model</em> M of A inside Jack's head.</p>
 <p>But what does it mean to say that one thing is a model of another and how could one have a model in one's head? Again, we have to specify some standard or authority. Let's make Jack be the judge of that:</p>
