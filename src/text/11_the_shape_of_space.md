@@ -3,6 +3,22 @@ ordinal: 11
 title: the shape of space
 ---
 
-# 11 THE SHAPE OF SPACE 
+# 11 THE SHAPE OF SPACE
 
-<ul><li><a href="http://aurellem.org/minsky/som-11.4.html"><em>11.4</em> innate geography</a></li><li><a href="http://aurellem.org/minsky/som-11.5.html"><em>11.5</em> sensing similarities</a></li><li><a href="http://aurellem.org/minsky/som-11.6.html"><em>11.6</em> the centered self</a></li><li><a href="http://aurellem.org/minsky/som-11.7.html"><em>11.7</em> predestined learning</a></li><li><a href="http://aurellem.org/minsky/som-11.9.html"><em>11.9</em> dumbbell theories</a></li> <br><br> </ul>
+[11.1 SEEING RED](/text/11_1_seeing_red)
+
+[11.2 THE SHAPE OF SPACE](/text/11_2_the_shape_of_space)
+
+[11.3 NEARNESSES](/text/11_3_nearnesses)
+
+[11.4 INNATE GEOGRAPHY](/text/11_4_innate_geography)
+
+[11.5 SENSING SIMILARITIES](/text/11_5_sensing_similarities)
+
+[11.6 THE CENTERED SELF](/text/11_6_the_centered_self)
+
+[11.7 PREDESTINED LEARNING](/text/11_7_predestined_learning)
+
+[11.8 HALF-BRAINS](/text/11_8_half-brains)
+
+[11.9 DUMBBELL THEORIES](/text/11_9_dumbbell_theories)

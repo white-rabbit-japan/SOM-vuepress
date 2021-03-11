@@ -3,15 +3,28 @@ ordinal: 26
 title: language-frames
 ---
 
-# 26 LANGUAGE-FRAMES 
+# 26 LANGUAGE-FRAMES
 
-<li><a href="http://aurellem.org/minsky/som-26.2.html"><em>26.2</em> understanding stories</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.3.html"><em>26.3</em> sentence-frames</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.5.html"><em>26.5</em> story-frames</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.6.html"><em>26.6</em> sentence and nonsense</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.7.html"><em>26.7</em> frames for nouns</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.8.html"><em>26.8</em> frames for verbs</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.9.html"><em>26.9</em> language and vision</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.10.html"><em>26.10</em> learning language</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.11.html"><em>26.11</em> grammar</a></li>
-<li><a href="http://aurellem.org/minsky/som-26.12.html"><em>26.12</em> coherent discourse</a></li>
+[26.1 UNDERSTANDING WORDS](/text/26_1_understanding_words)
+
+[26.2 UNDERSTANDING STORIES](/text/26_2_understanding_stories)
+
+[26.3 SENTENCE-FRAMES](/text/26_3_sentence-frames)
+
+[26.4 A PARTY-FRAME](/text/26_4_a_party-frame)
+
+[26.5 STORY-FRAMES](/text/26_5_story-frames)
+
+[26.6 SENTENCE AND NONSENSE](/text/26_6_sentence_and_nonsense)
+
+[26.7 FRAMES FOR NOUNS](/text/26_7_frames_for_nouns)
+
+[26.8 FRAMES FOR VERBS](/text/26_8_frames_for_verbs)
+
+[26.9 LANGUAGE AND VISION](/text/26_9_language_and_vision)
+
+[26.10 LEARNING LANGUAGE](/text/26_10_learning_language)
+
+[26.11 GRAMMAR](/text/26_11_grammar)
+
+[26.12 COHERENT DISCOURSE](/text/26_12_coherent_discourse)

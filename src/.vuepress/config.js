@@ -203,6 +203,15 @@ module.exports = {
             `8.10 LEVELS AND CLASSIFICATIONS`,
           ],
           [`text/8_11_layers_of_societies`, `8.11 LAYERS OF SOCIETIES`],
+        ],
+      },
+
+      {
+        title: `9 SUMMARIES`,
+        path: `/text/9_summaries`,
+        collapsable: false,
+        sidebarDepth: 2,
+        children: [
           [`text/9_1_wanting_and_liking`, `9.1 WANTING AND LIKING`],
           [`text/9_2_gerrymandering`, `9.2 GERRYMANDERING`],
           [`text/9_3_learning_from_failure`, `9.3 LEARNING FROM FAILURE`],
