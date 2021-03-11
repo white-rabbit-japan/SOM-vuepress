@@ -98,4 +98,4 @@ By Marvin Minsky
   som.forEach(processPage)
 }
 
-main()
+// main()
