@@ -49,10 +49,6 @@ module.exports = {
         text: "Glossary",
         link: "/glossary/",
       },
-      {
-        text: "VuePress",
-        link: "https://v1.vuepress.vuejs.org",
-      },
     ],
     sidebar: [
       {
