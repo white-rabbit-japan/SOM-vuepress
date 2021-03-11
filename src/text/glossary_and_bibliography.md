@@ -361,4 +361,6 @@ Because I thought this theory of the mind might interest not only specialists bu
 
 ### Will, Freedom of
 
+[12.6](/text/12.6 accumulation)
+
 (<a href="http://aurellem.org/minsky/som-30.6.html">30.6</a>) The myth that human volition is based upon some third alternative to either causality or chance.

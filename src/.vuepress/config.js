@@ -320,6 +320,14 @@ module.exports = {
             `14.7 THE POWER OF NEGATIVE THINKING`,
           ],
           [`text/14_8_the_interaction-square`, `14.8 THE INTERACTION-SQUARE`],
+        ],
+      },
+      {
+        title: `15 CONSCIOUSNESS AND MEMORY`,
+        path: `/text/15_consciousness_and_memory/`,
+        collapsable: false,
+        sidebarDepth: 2,
+        children: [
           [`text/15_1_momentary_mental_state`, `15.1 MOMENTARY MENTAL STATE`],
           [`text/15_2_self-examination`, `15.2 SELF-EXAMINATION`],
           [`text/15_3_memory`, `15.3 MEMORY`],

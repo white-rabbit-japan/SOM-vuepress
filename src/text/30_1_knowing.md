@@ -5,7 +5,6 @@ title: knowing
 
 # 30.1 KNOWING
 
-<h2>"30.1" knowing</h2>
 What does "knowing" really mean? Suppose Mary (or some other creature or machine) can answer certain questions about the world &mdash; without the need to do any actual experiments. Then we'd agree that Mary knows those things about the world. But what would it mean, to you or to me, to hear Jack say that "Mary knows geometry"? For all we know, Mary might believe that circles are squares and it happens that Jack agrees! Jack's statement tells us more about Jack than about Mary.
 
 When Jack says, "Mary knows geometry," this indicates to us that Jack would probably be satisfied by Mary's answers to the questions about geometry that he would be disposed to ask.
