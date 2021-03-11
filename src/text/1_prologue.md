@@ -9,7 +9,7 @@ title: Prologue
 
 This book tries to explain how minds work. How can intelligence emerge from nonintelligence? To answer that, we'll show that you can build a mind from many little parts, each mindless by itself.
 
-I'll call <em>Society of Mind</em> this scheme in which each mind is made of many smaller processes. These we'll call agents. Each mental agent by itself can only do some simple thing that needs no mind or thought at all. Yet when we join these agents in societies &mdash; in certain very special ways &mdash; this leads to true intelligence.
+I'll call "Society of Mind" this scheme in which each mind is made of many smaller processes. These we'll call agents. Each mental agent by itself can only do some simple thing that needs no mind or thought at all. Yet when we join these agents in societies &mdash; in certain very special ways &mdash; this leads to true intelligence.
 
 There's nothing very technical in this book. It, too, is a society &mdash; of many small ideas. Each by itself is only common sense, yet when we join enough of them we can explain the strangest mysteries of mind. One trouble is that these ideas have lots of cross-connections. My explanations rarely go in neat, straight lines from start to end. I wish I could have lined them up so that you could climb straight to the top, by mental stair-steps, one by one. Instead they're tied in tangled webs.
 
