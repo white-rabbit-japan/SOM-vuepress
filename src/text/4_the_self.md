@@ -5,7 +5,7 @@ title: the self
 
 # 4 THE SELF
 
-> We are what we pretend to be, so we must be careful about what we pretend to be. &mdash;Kurt Vonnegut
+> _We are what we pretend to be, so we must be careful about what we pretend to be._ &mdash;Kurt Vonnegut
 
 [4.1 THE SELF](/text/4_1_the_self)
 
