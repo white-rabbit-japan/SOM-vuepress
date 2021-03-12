@@ -5,7 +5,7 @@ title: Wholes and parts
 
 # 2 WHOLES AND PARTS
 
-> It is the nature of the mind that makes individuals kin, and the differences in the shape, form, or manner of the material atoms out of whose intricate relationships that mind is built are trivial. &mdash;Isaac Asimov
+> _It is the nature of the mind that makes individuals kin, and the differences in the shape, form, or manner of the material atoms out of whose intricate relationships that mind is built are trivial._ &mdash;Isaac Asimov
 
 [2.1 COMPONENTS AND CONNECTIONS](/text/2_1_components_and_connections)
 

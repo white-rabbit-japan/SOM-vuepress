@@ -5,7 +5,7 @@ title: hierarchies
 
 # 3.3 HIERARCHIES
 
-> <b>bu&bull;reauc&prime;ra&bull;cy</b> <i>n.</i> the administration of government through departments and subdivisions managed by sets of officials following an inflexible routine. &mdash;Webster's Unabridged Dictionary
+> **bu&bull;reauc&prime;ra&bull;cy** _n. the administration of government through departments and subdivisions managed by sets of officials following an inflexible routine. &mdash;Webster's Unabridged Dictionary_
 
 As an agent, _Builder_ does no physical work but merely turns on _Begin_, _Add_, and _End_. Similarly, Add just orders _Find_, _Put_, and _Get_ to do their jobs. Then these divide into agents like _Move_ and _Grasp_. It seems that it will never stop &mdash; this breaking-down to smaller things.
 

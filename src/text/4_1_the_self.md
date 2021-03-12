@@ -5,8 +5,8 @@ title: the self
 
 # 4.1 THE SELF
 
-> _**self** n. 1. the identity, character, or essential qualities of any person or thing. 2. the identity, personality, individuality, etc. of a given person; one's own person as distinct from all others._  
-> _&mdash;Webster's Unabridged Dictionary_
+> **self** _n. 1. the identity, character, or essential qualities of any person or thing. 2. the identity, personality, individuality, etc. of a given person; one's own person as distinct from all others._  
+>  _&mdash;Webster's Unabridged Dictionary_
 
 We all believe that human minds contain those special entities we call selves. But no one agrees about what they are. To keep things straight, I shall write "self" when speaking in a general sense about an entire person and reserve "Self" for talking about that more mysterious sense of personal identity. Here are some of the things people say about the Self:
 
