@@ -16,3 +16,10 @@ The simplest policy would be to leave that decision to Wrecker, who was responsi
 What aroused _Play-with-Blocks_ in the first place? Perhaps some even higher-level agent, Play, was active first. Then, inside _Play_, the agent _Play-with-Blocks_ achieved control, in spite of two competitors, _Play-with-Dolls_ and Play-with-Animals. But even Play itself, their mutual superior-in-chief, must have had to compete with other higher-level agencies like _Eat_ and _Sleep_. For, after all, a child's play is not an isolated thing but always happens in the context of other real-life concerns. Whatever we may choose to do, there are always other things we'd also like to do.
 
 In several sections of this book, I will assume that conflicts between agents tend to migrate upward to higher levels. For example, any prolonged conflict between _Builder_ and _Wrecker_ will tend to weaken their mutual superior, _Play-with-Blocks_. In turn, this will reduce _Play-with-Blocks'_ ability to suppress its rivals, _Play-with-Dolls_ and _Play-with-Animals_. Next, if that conflict isn't settled soon, it will weaken the agent _Play_ at the next-higher level. Then _Eat_ or _Sleep_ might seize control.
+
+## Resources
+
+<video width="320" height="240" controls>
+  <source src="/video/03.1 Wrecker.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

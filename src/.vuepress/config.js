@@ -80,8 +80,7 @@ module.exports = {
           [`text/2_3_parts_and_wholes`, `2.3 PARTS AND WHOLES`],
           [`text/2_4_holes_and_parts`, `2.4 HOLES AND PARTS`],
           [`text/2_5_easy_things_are_hard`, `2.5 EASY THINGS ARE HARD`],
-          [`text/2_6_confusion`, `2.6 CONFUSION`],
-          [`text/2_7_are_people_machines`, `2.7 ARE PEOPLE MACHINES`],
+          [`text/2_6_are_people_machines`, `2.6 ARE PEOPLE MACHINES`],
         ],
       },
       {

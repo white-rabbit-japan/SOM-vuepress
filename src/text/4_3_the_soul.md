@@ -16,3 +16,10 @@ Why try to frame the value of a Self in such a singularly frozen form? The art o
 We all know how an ugly husk can hide an unexpected gift, like a treasure buried in the dust or a graceless oyster bearing a pearl. But minds are just the opposite. We start as little embryos, which then build great and wondrous selves &mdash; whose merit lies entirely within their own coherency. The value of a human self lies not in some small, precious core, but in its vast, constructed crust.
 
 What are those old and fierce beliefs in spirits, souls, and essences? _They're all insinuations that we're helpless to improve ourselves._ To look for our virtues in such thoughts seems just as wrongly aimed a search as seeking art in canvas cloths by scraping off the painter's works.
+
+## Resources
+
+<video width="320" height="240" controls>
+  <source src="/video/04.3 Soul to Soul.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

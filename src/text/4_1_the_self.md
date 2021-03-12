@@ -17,3 +17,10 @@ This isn't much of a definition, but I don't think it is a good idea to try to f
 Even if our old ideas about the mind are wrong, we can learn a lot by trying to understand why we believe them. Instead of asking, _"What are Selves?"_ we can ask, instead, _"What are our ideas about Selves?"_ &mdash; and then we can ask, _"What psychological functions do those ideas serve?"_ When we do this, it shows us that we do not have one such idea, but many.
 
 Our ideas about our Selves include beliefs about what we are. These include beliefs both about what we are capable of doing and about what we may be disposed to do. We exploit these beliefs whenever we solve problems or make plans. I'll refer to them, rather vaguely, as a person's self-images. In addition to our _self-images_, our ideas about ourselves also include ideas about what we'd like to be and ideas about what we ought to be. These, which I'll call a person's _self-ideals_, influence each person's growth from infancy, but we usually find them hard to express because they're inaccessible to consciousness.
+
+## Resources
+
+<video width="320" height="240" controls>
+  <source src="/video/04.1 The Self.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

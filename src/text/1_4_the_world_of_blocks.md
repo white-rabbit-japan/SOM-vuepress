@@ -5,7 +5,6 @@ title: The world of blocks
 
 # 1.4 THE WORLD OF BLOCKS
 
-<figure><video height="240" width="320"> Your browser does not support the video tag. </video></figure>
 Imagine a child playing with blocks, and imagine that this child's mind contains a host of smaller minds. Call them mental agents. Right now, an agent called Builder is in control. Builder's specialty is making towers from blocks.
 
 Our child likes to watch a tower grow as each new block is placed on top. But building a tower is too complicated a job for any single, simple agent, so Builder has to ask for help from several other agents:
@@ -40,5 +39,11 @@ For example, we've seen how to construct a tower-building skill by making Builde
 
 Accordingly, each step in this book uses two different ways to think about agents. If you were to watch Builder work, from the outside, with no idea of how it works inside, you'd have the impression that it knows how to build towers. But if you could see Builder from the inside, you'd surely find no knowledge there. You would see nothing more than a few switches, arranged in various ways to turn each other on and off. Does Builder "really know" how to build towers? The answer depends on how you look at it. Let's use two different words, "agent" and "agency," to say why Builder seems to lead a double life. As agency, it seems to know its job. As agent, it cannot know anything at all.
 
-<figure><img src="/images/ch1/1-4.png"></img></figure>
 When you drive a car, you regard the steering wheel as an agency that you can use to change the car's direction. You don't care how it works. But when something goes wrong with the steering, and you want to understand what's happening, it's better to regard the steering wheel as just one agent in a larger agency: it turns a shaft that turns a gear to pull a rod that shifts the axle of a wheel. Of course, one doesn't always want to take this microscopic view; if you kept all those details in mind while driving, you might crash because it took too long to figure out which way to turn the wheel. Knowing how is not the same as knowing why. In this book, we'll always be switching between agents and agencies because, depending on our purposes, we'll have to use different viewpoints and kinds of descriptions.
+
+## Videos
+
+<video width="320" height="240" controls>
+  <source src="/video/01.4 child plays with blocks.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
