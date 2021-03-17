@@ -1,8 +1,6 @@
 {
   "index_name": "som",
-  "start_urls": [
-    "https://som.maxhodges.com"
-  ],
+  "start_urls": ["https://som.maxhodges.com"],
   "stop_urls": [],
   "selectors": {
     "lvl0": {
@@ -23,17 +21,12 @@
       "default_value": "en-US"
     }
   },
-  "selectors_exclude": [
-    ".table-of-contents"
-  ],
+  "selectors_exclude": [".table-of-contents", ".sidebar"],
+  "objectID": ".theme-default-content h1",
   "strip_chars": " .,;:#",
   "custom_settings": {
-    "attributesForFaceting": [
-      "lang"
-    ]
+    "attributesForFaceting": ["lang"]
   },
-  "conversation_id": [
-    "1449252797"
-  ],
+  "conversation_id": ["1449252797"],
   "scrape_start_urls": false
 }
