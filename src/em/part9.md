@@ -1,7 +1,7 @@
 # 9 The Self
 
-::: warning NOTE
-This is an early draft of part 9 of 'The Emotion Machine' by Marvin Minsky from July 28, 2005.
+::: warning WTF
+This is an early draft of part 9 of 'The Emotion Machine' which Minsky shared with me prior to publication.
 :::
 
 **Known Issues:** _various formatting issues; images to be added; footnote formatting_
