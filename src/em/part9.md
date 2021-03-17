@@ -535,7 +535,7 @@ In fact, it was widely believed until recent years, that our brains must be base
 
 In any case, each human brain has many different kinds of parts, and although we don’t yet know what all of them do, I suspect that many of them are involved with helping to suppress the effects of defects and bugs in other parts. Consequently, it will remain hard to guess why our brains evolved as they did, until we build more such systems ourselves—to learn which such bugs are most probable.
 
-## 9.6 Why makes feelings so hard to describe?
+## 9.6 What makes feelings so hard to describe?
 
 > A color stands abroad  
 > On solitary hills  
