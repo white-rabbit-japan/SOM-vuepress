@@ -253,6 +253,7 @@ module.exports = {
               `6_13_self-knowledge_is_dangerous`,
               `6.13 SELF-KNOWLEDGE IS DANGEROUS`,
             ],
+            [`6_14_confusion`, `6.12 CONFUSION`],
           ],
         },
         {
