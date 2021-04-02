@@ -11,8 +11,6 @@ The words and symbols we use to summarize our higher-level goals and plans are n
 
 "Meaning" itself is relative to size and scale: it makes sense to talk about a meaning only in a system large enough to have many meanings. For smaller systems, that concept seems vacant and superfluous. For example, Builder's agents require no sense of meaning to do their work; Add merely has to turn on Get and Put. Then Get and Put do not need any subtle sense of what those turn-on signals "mean" &mdash; because they're wired up to do only what they're wired up to do. In general, the smaller an agency is, the harder it will be for other agencies to comprehend its tiny &ldquo;language&amp;rdquo.
 
-The smaller two languages are, the harder it will be to translate between them. This is not because there are too many
-
-meanings, but because there are too few. The fewer things an agent does, the less likely that what another agent does will correspond to any of those things. And if two agents have nothing in common, no translation is conceivable.
+- The smaller two languages are, the harder it will be to translate between them. This is not because there are too many meanings, but because there are too few. The fewer things an agent does, the less likely that what another agent does will correspond to any of those things. And if two agents have nothing in common, no translation is conceivable.
 
 In the more familiar difficulty of translating between human languages, each word has many meanings, and the main problem is to narrow them down to something they share. But in the case of communication between unrelated agents, narrowing down cannot help if the agents have nothing in common from the start.

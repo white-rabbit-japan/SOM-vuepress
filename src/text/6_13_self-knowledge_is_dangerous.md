@@ -11,7 +11,7 @@ Just see how prone we are to risk experiments that change ourselves; how fatally
 
 In ordinary life, our pleasure systems help us learn &mdash; and, therefore, to behave ourselves &mdash; by forcing checks and balances on us. Why, for example, do we become bored when doing the same thing over and over, even if that activity was pleasant at first? This appears to be one property of our pleasure systems; without enough variety, they tend to satiate. Every learning machine must have some such protective scheme, since otherwise it could get trapped into endlessly repeating the same activity. We are fortunate to be equipped with mechanisms that keep us from wasting too much time, and it is fortunate, too, that we find it hard to suppress such mechanisms.
 
-If we could deliberately seize control of our pleasure systems, we could reproduce the pleasure of success without the need for any actual accomplishment. And that would be the end of everything.
+- If we could deliberately seize control of our pleasure systems, we could reproduce the pleasure of success without the need for any actual accomplishment. And that would be the end of everything.
 
 What prevents such meddling? Our minds are bound by many self-constraints. For example, we find it hard to determine what's happening inside the mind. Later, when we talk about infant development, we'll see that even if our inner eyes could see what's there, we'd find it singularly hard to change the agents we might want most to change &mdash; the ones that, in our infancy, helped shape our longest-lasting self-ideals.
 

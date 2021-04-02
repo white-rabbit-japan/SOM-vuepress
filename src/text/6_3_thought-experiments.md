@@ -9,7 +9,7 @@ How do you discover things about the world? Just look and see! It seems simple &
 
 How do you discover things about your mind? You use a similar technique. You make up little bits of theories about how you think, then test them with tiny experiments. The trouble is that thought-experiments don't often lead to the sorts of clear, crisp findings that scientists seek. Ask yourself what happens when you try to imagine a round square &mdash; or when you try to be happy and sad at the same time. Why is it so hard to describe the results of such experiments or draw useful conclusions from them? It is because we get confused. Our thoughts about our mind-experiments are mind-experiments themselves &mdash; and therefore interfere with one another.
 
-Thinking affects our thoughts.
+- Thinking affects our thoughts.
 
 People who program computers encounter similar problems when new programs malfunction because of unexpected interactions among their parts. To find out what's happening, programmers have developed special programs for "debugging" other programs. But just as in thought-experiments, there is a danger that the program being watched might change the one that's watching it. To prevent this, all modern computers are equipped with special "interruption" machinery that detects any other program's attempt to alter a debugging program; when this happens, the culprit is "frozen" in its tracks so that the debugging program can examine it. To do this, the interruption machinery must be supplied with a private memory bank that can store enough information to make it possible, later, to restart the frozen program as though nothing had happened.
 

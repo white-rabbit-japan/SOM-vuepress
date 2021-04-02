@@ -8,7 +8,7 @@ title: momentary mental time
 <figure><video height="240" width="320"> Your browser does not support the video tag. </video></figure>
 What do you think you're thinking now? You might reply, "Why, just the thoughts I'm thinking now!" And that makes sense, in ordinary life, where "now" means "at this moment in time." But the meaning of "now" is far less clear for an agent inside a society.
 
-It takes some time for changes in one part of a mind to affect the other parts. There's always some delay.
+- It takes some time for changes in one part of a mind to affect the other parts. There's always some delay.
 
 For example, suppose you meet your friend Jack. Your agencies for Voices and Faces may recognize Jack's voice and face, and both send messages to an agency Names, which may recall Jack's name. But Voices may also send a "word-message" to Quotes, a language-based agency that has a way to remember phrases Jack has said before, while Faces may also send a message to Places, an agency concerned with space, which might recall some earlier place in which Jack's face was seen.
 

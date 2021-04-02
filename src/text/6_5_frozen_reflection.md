@@ -5,6 +5,11 @@ title: Frozen reflection
 
 # 6.5 FROZEN REFLECTION
 
+> _Time present and past  
+Are both perhaps present in time future,  
+And time future contained in time past.  
+&mdash;T.S. Eliot_
+
 No supervisor can know everything that all its agents do. There's simply never time enough. Each bureaucrat sees but a fraction of what happens underneath its place in the pyramid of information flow. The best subordinates are those that work most quietly. Indeed, that's why we build administrative pyramids for jobs we don't know how to do or don't have time to do ourselves. It is also why so many of our thoughts must hide beyond our consciousness.
 
 Good scientists never try to learn too much at once. Instead, they select particular aspects of a situation, observe carefully, and make records. Experimental records are "frozen phenomena." They let us take all the time we need to make our theories. But how could we do the same thing inside the mind? We'd need some kind of memory in which to keep such records safe.
