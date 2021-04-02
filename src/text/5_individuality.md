@@ -3,18 +3,28 @@ ordinal: 5
 title: individuality
 ---
 
-# 5 INDIVIDUALITY
+# Chapter 5 INDIVIDUALITY
 
-[5.1 CIRCULAR CAUSALITY](/text/5_1_circular_causality)
+## PUNCH AND JUDY TO THEIR AUDIENCE
 
-[5.2 UNANSWERABLE QUESTIONS](/text/5_2_unanswerable_questions)
+_Our puppets strings are hard to see,  
+So we perceive ourselves as free,  
+Convinced that no mere objects could  
+Behave in terms of bad and good._
+ 
+_To you, we mannequins seem less  
+than live, because our consciousness    
+is that of dummies, made to sit  
+on laps of gods and mouth their wit;_
 
-[5.3 THE REMOTE-CONTROL SELF](/text/5_3_the_remote-control_self)
+_Are you, our transcendental gods,  
+likewise dangled from your rods,  
+and need, to show spontaneous charm,  
+some higher god's inserted arm?_
 
-[5.4 PERSONAL IDENTITY](/text/5_4_personal_identity)
+_We seem to form a nested set,  
+With each the next one's marionette,  
+Who, if you asked him, would insist,  
+that he's the last ventriloquist._
 
-[5.5 FASHION AND STYLE](/text/5_5_fashion_and_style)
-
-[5.6 TRAITS](/text/5_6_traits)
-
-[5.7 PERMANENT IDENTITY](/text/5_7_permanent_identity)
+&mdash;Theodore Melnechuk

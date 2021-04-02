@@ -1,6 +1,10 @@
 const { description } = require("../../package")
 
 module.exports = {
+  extendMarkdown: (md) => {
+    md.use(require("markdown-it-footnote"))
+  },
+
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -51,14 +55,95 @@ module.exports = {
       },
       {
         text: "The Emotion Machine",
-        link: "/em/part9",
+        link: "/em/1_1",
       },
     ],
     sidebar: {
       "/em/": [
         {
+          title: `1 Falling in Love`,
+          path: `/em/1_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            [`1_1`, `1.1 Falling in Love`],
+            [`1_2`, `1.2 The Sea Of Mental Mysteries`],
+            [`1_3`, `1.3 Moods and Emotions`],
+            [`1_4`, `1.4 Infant Emotions`],
+            [`1_5`, `1.5 Seeing a Mind as a Cloud of Resources`],
+            [`1_6`, `1.6 Adult Emotions`],
+            [`1_7`, `1.7 Emotion Cascades`],
+            [`1_8`, `1.8 Questions`],
+          ],
+        },
+        {
+          title: `2 Attachments and Goals`,
+          path: `/em/2_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            [`2_1`, `2.1 Playing with Mud`],
+            [`2_2`, `2.2 Attachments and Goals`],
+            [`2_3`, `2.3 Imprimers`],
+            [`2_4`, `2.4 Attachment-Learning Elevates Goals`],
+            [`2_5`, `2.5 Learning and pleasure`],
+            [`2_6`, `2.6 Conscience, Values and Self-Ideals`],
+            [`2_7`, `2.7 Attachments of Infants and Animals`],
+            [`2_8`, `2.8 Who are our Imprimers?`],
+            [`2_9`, `2.9 Self-Models and Self-Consistency`],
+            [`2_10`, `2.10  Public Imprimers`],
+            [`2_11`, `2.11 Playing with Mud`],
+          ],
+        },
+        {
+          title: `3 From Pain to Suffering`,
+          path: `/em/3_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+          children: [
+            [`3_1`, `3.1 Being in Pain`],
+            [`3_2`, `3.2 Prolonged Pain leads to Cascades`],
+            [`3_3`, `3.3 Feeling, Hurting, and Suffering`],
+            [`3_4`, `3.4 Overriding Pain`],
+            [`3_5`, `3.5 Correctors, Suppressors, and Censors`],
+            [`3_6`, `3.6 The Freudian Sandwich`],
+            [`3_7`, `3.7 Controlling our Moods and Dispositions`],
+            [`3_8`, `3.8 Emotional Exploitation`],
+          ],
+        },
+        {
+          title: `part 4`,
+          path: `/em/4_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+        },
+        {
+          title: `part 5`,
+          path: `/em/5_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+        },
+        {
+          title: `part 6`,
+          path: `/em/6_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+        },
+        {
+          title: `part 7`,
+          path: `/em/7_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+        },
+        {
+          title: `part 8`,
+          path: `/em/8_1`,
+          collapsable: false,
+          sidebarDepth: 2,
+        },
+        {
           title: `9 The Self`,
-          path: `/em/part9`,
+          path: `/em/9_1`,
           collapsable: false,
           sidebarDepth: 2,
         },
@@ -136,6 +221,7 @@ module.exports = {
           collapsable: false,
           sidebarDepth: 2,
           children: [
+            [`5_individuality`, `5 INDIVIDUALITY`],
             [`5_1_circular_causality`, `5.1 CIRCULAR CAUSALITY`],
             [`5_2_unanswerable_questions`, `5.2 UNANSWERABLE QUESTIONS`],
             [`5_3_the_remote-control_self`, `5.3 THE REMOTE-CONTROL SELF`],
