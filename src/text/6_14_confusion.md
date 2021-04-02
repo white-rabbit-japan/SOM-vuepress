@@ -1,5 +1,5 @@
 ---
-ordinal: 6.13
+ordinal: 6.14
 title: self-knowledge is dangerous
 ---
 
