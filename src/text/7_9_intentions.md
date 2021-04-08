@@ -5,7 +5,6 @@ title: intentions
 
 # 7.9 INTENTIONS
 
-<h2>"7.9" intentions</h2>
 When we watch a ball roll down a slope, we notice it seems to try to get around obstacles that lie in its path. If we didn't know about gravity, we might be tempted to think that the ball has the goal of moving down. But we know that the ball isn't "trying" to do anything; the impression of intention is only in the watcher's mind.
 
 When we experiment with Builder we also get the sense that it has a goal. Whenever you take its blocks away, it reaches out and takes them back. Whenever you knock its tower down, it rebuilds it. It seems to want a tower there, and it perseveres until the tower is done. Certainly Builder seems smarter than the rolling ball because it overcomes more complicated obstacles. But once we know how Builder works, we see that it's not so different from that ball: all it does is keep on finding blocks and putting them on top of other blocks. Does Builder really have a goal?

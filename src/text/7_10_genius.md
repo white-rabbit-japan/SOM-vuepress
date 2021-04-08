@@ -5,7 +5,6 @@ title: genius
 
 # 7.10 GENIUS
 
-<h2>"7.10" genius</h2>
 We naturally admire our Einsteins, Shakespeares, and Beethovens &mdash; and we wonder if machines could ever create such wondrous theories, plays, and symphonies. Most people think that accomplishments like these require "talents" or "gifts" that cannot be explained. If so, then it follows that computers can't create such things &mdash; since anything machines do can be explained. But why assume that what our greatest artists do is very different from what ordinary people do &mdash; when we know so little about what ordinary people do! Surely it is premature to ask how great composers write great symphonies before we know how ordinary people think of ordinary tunes. I don't believe there is much difference between normal and "creative" thought. Right now, if asked which seems the more mysterious, I'd have to say the ordinary kind.
 
 We shouldn't let our envy of distinguished masters of the arts distract us from the wonder of how each of us gets new ideas. Perhaps we hold on to our superstitions about creativity in order to make our own deficiencies seem more excusable. For when we tell ourselves that masterful abilities are simply unexplainable, we're also comforting ourselves by saying that those super-heroes come endowed with all the qualities we don't possess. Our failures are therefore no fault of our own, nor are those heroes' virtues to their credit, either. If it isn't learned, it isn't earned.
