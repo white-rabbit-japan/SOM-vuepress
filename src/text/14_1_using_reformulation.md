@@ -7,9 +7,22 @@ title: using reformulation
 
 What can we do when we can't solve a problem? We can try to find a new way to look at it, to describe it in different terms. Reformulation is the most powerful way to attempt to escape from what seems to be a hopeless situation. Thus, when we couldn't find anything common to all those different kinds of arches, we changed our way of looking at them. We moved from the world of rigid, geometric block descriptions to a less constrained domain of body-support descriptions &mdash; and there we found a way to make a uniframe for all of them: a span supported by a pair of legs. But think of all the other ways a person might describe an arch.
 
-Aesthetic: A pleasing, shapely form. Dynamical: The top will fall if either leg is removed. Topological: The arch surrounds a hole in space. Geometrical: The three blocks form an "inverted U" shape. Architectural: The arch's top could be the base of something else.
+**Aesthetic**: A pleasing, shapely form.
 
-Constructional: Place two blocks, then place another across their tops. Circumventional: Can be used as a detour, to go around an obstacle. Transportational: Can be used as a bridge, to go from one place to another.
+**Dynamical**: The top will fall if either leg is removed.
+
+**Topological**: The arch surrounds a hole in space.
+
+**Geometrical**: The three blocks form an "inverted U" shape.
+
+**Architectural**: The arch's top could be the base of something else.
+
+**Constructional**: Place two blocks, then place another across their
+ tops.
+
+**Circumventional**: Can be used as a detour, to go around an obstacle.
+
+**Transportational**: Can be used as a bridge, to go from one place to another.
 
 Each of these involves a different "realm" of thought with its own style for describing things. And every different realm of thought can bring new kinds of skills to bear on a problem. We each learn various ways to reason about paths and obstacles; we each learn ways to deal with vertical support; with doors and windows; with boxes and bridges and tunnels; with stacks and rows and stairs and ramps.
 

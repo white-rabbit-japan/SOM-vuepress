@@ -9,7 +9,16 @@ How do we connect the things we have with the goals we want to achieve? The answ
 
 Each of these dumbbell distinctions has its own style for distinguishing essential parts from supportive parts. And even in the world of physical things, we can apply these different mental views in different ways. For example, there are many ways to describe the act of standing on a table in order to be able to reach higher.
 
-<table> <tbody><tr><td>Support:</td><td>Tables hold things away from the floor.</td></tr> <tr><td>Function:</td><td>Tables are for supporting things.</td></tr> <tr><td>Conclusion:</td><td>If you put something on a table, its height increases.</td></tr> <tr><td>Cause-Effect:</td><td>I can reach higher because I start higher.</td></tr> <tr><td>Means-Ends:</td><td>If I want to reach higher, I can stand on a table.</td></tr> </tbody></table>
+**Support**: _Tables hold things away from the floor._
+
+**Function**: _Tables are for supporting things._
+
+**Conclusion**: _If you put something on a table, its height increases._
+
+**Cause-Effect**: _I can reach higher because I start higher._
+
+**Means-Ends**: _If I want to reach higher, I can stand on a table._
+
 Even when we simply put something on a table, we're likely to employ several such descriptions at the same time &mdash; perhaps in different sections of the mind. The quality of our understanding depends upon how well we move between those different realms. In order to translate easily from one of them to another, we must discover systematic cross-realm correspondences. However, finding these is rare. Usually, the situation is like that we found for chairs and games: each description-element in one world corresponds to a hard-to- describe accumulation of structures in the other world. What is remarkable about the body-support concept is how often it leads to systematic cross-realm correspondences. For example, we can use it to translate "supported by," in the architectural realm, into "horizontal surface underneath" in the geometrical realm. To be sure, this correspondence fails to represent the possibility of supporting an object by suspending it from above. But some exceptions are inevitable.
 
 Our systematic cross-realm translations are the roots of fruitful metaphors; they enable us to understand things we've never seen before. When something seems entirely new in one of our description-worlds, it may turn out that when translated to some other world it resembles something we already know.

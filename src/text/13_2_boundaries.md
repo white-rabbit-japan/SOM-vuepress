@@ -2,10 +2,8 @@
 ordinal: 13.2
 title: boundaries
 ---
-
 # 13.2 BOUNDARIES
 
-<h2>"13.2" boundaries</h2>
 What is creativity? How do people get new ideas? Most thinkers would agree that some of the secret lies in finding "new ways to look at things." We've just seen how to use the Body-Support concept to reformulate descriptions of some spatial forms, and soon we'll see some other ways to reformulate in terms of strength, containment, cause, and chain. But first let's look more carefully at how we made those four different arches seem the same, by making each of them seem to match "a thing supported by two legs." In the case of Single-Arch, we did this by imagining some boundaries that weren't really there: this served to break a single object into three.
 
 However, we dealt with Tower-Arch by doing quite the opposite: we treated some real boundaries as though they did not exist:

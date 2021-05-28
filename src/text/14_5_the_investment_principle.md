@@ -5,10 +5,11 @@ title: the investment principle
 
 # 14.5 THE INVESTMENT PRINCIPLE
 
-<blockquote> To him that has, more shall be given; but from him that has not, the little that he has shall be taken away. </blockquote>
+> _To him that has, more shall be given; but from him that has not, the little that he has shall be taken away._
+
 Some ideas acquire undue influence. The prominence of the body-support idea is well-deserved; no other scheme compares to its ability to help us link things into causelike chains. But there are other, not so honorable ways for ideas to gather influence.
 
-The Investment Principle: Our oldest ideas have unfair advantages over those that come later. The earlier we learn a skill, the more methods we can acquire for using it. Each new idea must then compete against the larger mass of skills the old ideas have accumulated.
+**The Investment Principle**: Our oldest ideas have unfair advantages over those that come later. The earlier we learn a skill, the more methods we can acquire for using it. Each new idea must then compete against the larger mass of skills the old ideas have accumulated.
 
 This is why it's so much easier to do new things in older ways. Each new idea, however good in principle, seems awkward until we master it. So old ideas keep gaining strength, while new ones can rarely catch up. Furthermore, our oldest and best-developed skills will be the first to spread to other realms of thought where again they'll start out far enough ahead to keep any new ideas from taking root.
 

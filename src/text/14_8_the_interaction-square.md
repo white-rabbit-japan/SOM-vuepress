@@ -11,5 +11,5 @@ Many of our body joints can move in two independent directions at once &mdash; n
 
 Consider that the Spatial agency in our Society-of-More is not really involved with space at all, but with interactions between agents like Tall and Thin. If you were told that one object A is both taller and wider than another object B, you could be sure that there is "more" of A. But if you were told that A is taller and thinner than B, you couldn't be sure which one is "more." An interaction-square array provides a convenient way to represent all the possible combinations:
 
-<figure><img src="/images/ch14/14-16.png"></img></figure>
+<img src="/images/ch14/14-16.png"></img>
 If square-arrays can represent how pairs of causes interact, could similar schemes be used with three or more causes? That might need too many "directions" to be practical. We'd need twenty-seven directions to represent three interacting causes this way, and eighty-one to represent four. Only rarely, it seems, do people deal with more than two causes at a time; instead, we either find ways to reformulate such situations or we accumulate disorderly societies of partially filled interaction-squares that cover only the most commonly encountered combinations.
